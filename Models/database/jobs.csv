@@ -1,0 +1,11 @@
+jobId,title,description,companyId,deadline,status,jobType
+20000001,Software Engineer,Develop and maintain software applications.,10000001,2025-12-31,open,regular
+20000002,Data Analyst,Analyze datasets to provide business insights.,10000001,2025-11-30,open,co-op
+20000003,UI/UX Designer,Design user interfaces and experiences.,10000001,2025-12-15,closed,regular
+20000004,Cybersecurity Intern,Assist in security monitoring.,10000001,2025-10-31,open,co-op
+20000005,Cloud Engineer,Manage cloud infrastructure.,10000001,2025-12-01,open,regular
+20000006,Project Manager,Lead software development projects.,10000002,2025-12-20,open,regular
+20000007,Sustainability Consultant,Advise clients on eco-solutions.,10000002,2025-12-25,closed,regular
+20000008,Research Assistant,Assist research projects in renewable energy.,10000002,2025-11-15,open,co-op
+20000009,Marketing Specialist,Develop marketing strategies for eco-products.,10000002,2025-12-10,open,regular
+20000010,HR Coordinator,Coordinate recruitment and employee relations.,10000002,2025-11-20,open,regular
